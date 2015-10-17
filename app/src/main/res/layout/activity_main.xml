@@ -3,8 +3,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    android:gravity="center"
+    android:gravity="center_horizontal"
     android:orientation="vertical">
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="24dp" />
 
     <com.ben.view.DrawableText
         android:layout_width="wrap_content"
