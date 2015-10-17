@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DrawableText</string>
+    <string name="not_set_drawable_size">not set drawable size</string>
+    <string name="set_drawable_size">set drawable size</string>
 </resources>

@@ -1,4 +1,4 @@
-package com.ben.view.drawabletext;
+package com.ben.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;

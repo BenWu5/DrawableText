@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DrawableText</string>
+    <string name="not_set_drawable_size">没有设置图像大小</string>
+    <string name="set_drawable_size">设置图像大小</string>
+</resources>
